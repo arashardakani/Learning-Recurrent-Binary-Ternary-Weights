@@ -39,7 +39,7 @@ if __name__ == "__main__":
     BN_epsilon=1e-5
     BN_fast_eval= True
     dropout_input = 1.
-    length = 200
+    length = 180
     initial_gamma = 1e-1
     initial_beta = 0
 
